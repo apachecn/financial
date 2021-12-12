@@ -32,15 +32,13 @@
 
 # {name}
 
-> 原文：[{nameEn}]({urlEn})
+> 原文：[@片刻](https://github.com/jiangzhonglian)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 渣男除了渣没其他缺点，舔狗除了舔没其他优点。
 
-* [在线阅读](https://{domain}.apachecn.org)
-* [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
-* [ApacheCN 学习资源](http://docs.apachecn.org/)
+* [2021 组合投资 - 稳健成长策略](https://github.com/apachecn/financial/issues/1 )
 
 ## 贡献指南
 
@@ -52,13 +50,13 @@
 
 ### 负责人
 
-* [{adminName}](https://github.com/{adminUn}): {adminQq}
+* [@片刻](https://github.com/jiangzhonglian)
 
 ### 其他
 
-*   在我们的 [apachecn/{repo}](https://github.com/apachecn/{repo}) github 上提 issue.
+*   在我们的 [apachecn/financial](https://github.com/apachecn/financial) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
-*   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
+*   在我们的 [组织学习交流群](https://www.apachecn.org/#/docs/join) 中联系群主/管理员即可.
 
 ## 下载
 
