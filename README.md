@@ -1,7 +1,5 @@
 # 项目介绍
 
-> 原文：[金融投资策略](https://github.com/financial)
-
 * [2021 组合投资 - 稳健成长策略](https://github.com/apachecn/financial/issues/1 )
 
 
