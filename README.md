@@ -1,7 +1,7 @@
 # 项目介绍
 
-* [2021 组合投资 - 稳健成长策略](https://github.com/apachecn/financial/issues/1 )
-
+* [2021 组合投资 - 价值稳健策略](https://github.com/apachecn/financial/issues/1)
+* [2021 组合投资 - 可转债策略](https://github.com/apachecn/financial/issues/3)
 
 ## 联系方式
 
