@@ -1,7 +1,6 @@
 # 项目介绍
 
-* [2021 组合投资 - 价值稳健策略](https://github.com/apachecn/financial/issues/1)
-* [2021 组合投资 - 可转债策略](https://github.com/apachecn/financial/issues/3)
+* 迁移地址 : <https://github.com/orgs/apachecn/discussions/238>
 
 ## 联系方式
 
@@ -13,8 +12,7 @@
 
 *   在我们的 [apachecn/financial](https://github.com/apachecn/financial) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
-*   在我们的 [组织学习交流群](https://www.apachecn.org/#/docs/join) 中联系群主/管理员即可.
-
+*   在我们的 [组织学习交流群](https://apachecn.org/cooperate/) 中联系群主/管理员即可.
 
 ## 赞助我们
 
